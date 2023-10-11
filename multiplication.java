@@ -3,8 +3,8 @@ package practiceDay1;
 public class multiplication {
     public void multiplyTwoNumbers(float num1,float num2) {
         try {
-            float mul = num1 * num2;
-            System.out.println(mul);
+            float m = num1 * num2;
+            System.out.println(m);
         } catch (Exception e) {
             e.printStackTrace();
         }
