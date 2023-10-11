@@ -1,9 +1,9 @@
 package practiceDay1;
 
 public class multiplication {
-    public void multiplyTwoNumbers(float num1,float num2) {
+    public void multiplyTwoNumbers(float num,float num) {
         try {
-            float m = num1 * num2;
+            float m = num * num;
             System.out.println(m);
         } catch (Exception e) {
             e.printStackTrace();
