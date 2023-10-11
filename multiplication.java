@@ -11,7 +11,7 @@ public class multiplication {
     }
     public static void main(String[] args){
             multiplication obj = new multiplication();
-            obj.multiplyTwoNumbers(1.0f, Float.parseFloat("abc"));
+            obj.multiplyTwoNumbers(1.0f, Float.parseFloat("bc"));//second
         }
 
 }
